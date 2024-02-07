@@ -1,14 +1,23 @@
 <%- include('./partials/head') %>
 
-<article>
-  <header>
-    <h1>Hallo</h1>
-    <p>mijn naam is</p>
-  </header>
+<header><a><%= github_handle %></a></header>
+<main>
+  
+<section class="frame-1">
+  <h1><%= name %></h1> <h1><%= surname %></h1>
+  <h2>keep calm and carry on</h2>
+</section>
 
-  <p><%= name %></p>
-
+<section class="frame-2">
+  <article><h3><%= name %> <%= surname %></h3><p><%= bio %> <%= email %> <%= phone_number %></p></article>
+  <div class="img-window"><img src="/images/IMG_0443.png" alt="Lisa van Mansom"></div>
+  <article><h4>About me</h4><p>hierkomt tekst ig....</p></article>
+  <div><div class="shape"></div><p>downloading clockworkorange</p></div>
+  <div class="gradient-window"></div>
+  
+</section>
+</main>
   <footer></footer>
-</article>
+
 
 <%- include('./partials/foot') %>

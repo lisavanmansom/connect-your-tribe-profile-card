@@ -17,7 +17,7 @@ Redesign van mijn visitekaartje uit de 1e week van de opleiding gedaan met Node 
 
 Voor dit visitekaartje had ik besloten om het in een maximalistische, grotesque stijl te ontwerpen. Op dit visitekaartje kan je informatie over mij vinden, met als voorbeeld email, telefoonnummer, likes & dislikes en een foto.
 
-[live-link](https://tame-yoke-slug.cyclic.app/)
+[live-link](https://connect-your-tribe-profile-card-mh31.onrender.com/)
 
 ![Colorful modern Breakfast Cafe Healthy Food Phone Mockup Facebook Post](https://github.com/lisavanmansom/connect-your-tribe-profile-card/assets/144007419/8c07dcce-1748-464c-899f-68aaa932fbeb)
 
@@ -31,8 +31,6 @@ De technieken die ik heb gebruikt zijn HTML en CSS. De HTML is grotendeels seman
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 
 ## Installatie
-
-## Installatie
 * Installeer NodeJs;
 * Fork/clone deze repository;
 * Open het in een code editor;
@@ -41,6 +39,10 @@ De technieken die ik heb gebruikt zijn HTML en CSS. De HTML is grotendeels seman
 * Klik op de localhost link en begin met coden.
 
 ## Gebruik
+
+Om deze pagina te bekijken kan je klikken op de [live-link](https://connect-your-tribe-profile-card-mh31.onrender.com/) in de About sectie van deze repository.
+
+Op dit visitekaartje kan je lezen wie ik ben en waar ik vandaan kom, en kan je klikken op verschillende links om te naar mijn Github, Codepen of Instagram te gaan.
 
 ## Bronnen
 

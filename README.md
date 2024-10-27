@@ -32,6 +32,14 @@ De technieken die ik heb gebruikt zijn HTML en CSS. De HTML is grotendeels seman
 
 ## Installatie
 
+## Installatie
+* Installeer NodeJs;
+* Fork/clone deze repository;
+* Open het in een code editor;
+* Run de command npm install;
+* Run de command npm start;
+* Klik op de localhost link en begin met coden.
+
 ## Gebruik
 
 ## Bronnen
